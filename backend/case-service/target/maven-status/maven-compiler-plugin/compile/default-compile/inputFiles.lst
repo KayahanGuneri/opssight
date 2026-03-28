@@ -1,0 +1,9 @@
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\CaseServiceApplication.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\config\OpenApiConfig.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\controller\CaseSystemController.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\domain\Case.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\domain\CaseComment.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\domain\CaseHistory.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\domain\enums\CasePriority.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\domain\enums\CaseStatus.java
+C:\Users\kayah\Desktop\opssight\backend\case-service\src\main\java\com\opssight\caseapp\dto\CasePingResponse.java

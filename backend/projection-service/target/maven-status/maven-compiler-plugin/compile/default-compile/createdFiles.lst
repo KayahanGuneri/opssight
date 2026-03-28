@@ -1,0 +1,4 @@
+com\opssight\projection\dto\ProjectionPingResponse.class
+com\opssight\projection\ProjectionServiceApplication.class
+com\opssight\projection\config\OpenApiConfig.class
+com\opssight\projection\controller\ProjectionSystemController.class

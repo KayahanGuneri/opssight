@@ -1,0 +1,4 @@
+com\opssight\aiinsight\config\OpenApiConfig.class
+com\opssight\aiinsight\AiInsightServiceApplication.class
+com\opssight\aiinsight\controller\AiInsightSystemController.class
+com\opssight\aiinsight\dto\AiInsightPingResponse.class
